@@ -37,7 +37,11 @@
 				</div>	
 				<div class="col-md-4">
 					<div class="header_adress_wrapper" id="scroll_to_map">
+<<<<<<< HEAD
 							<span>Hello new branch</span>
+=======
+							<span>Branch master</span>
+>>>>>>> master
 					</div>
 				</div>	
 				<div class="col-md-4">
