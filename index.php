@@ -37,7 +37,7 @@
 				</div>	
 				<div class="col-md-4">
 					<div class="header_adress_wrapper" id="scroll_to_map">
-							<span>Самара, ул. Песчаная, 1</span>
+							<span>Hello new branch</span>
 					</div>
 				</div>	
 				<div class="col-md-4">
