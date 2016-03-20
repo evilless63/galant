@@ -10,7 +10,7 @@
 
 	<meta charset="utf-8" />
 
-	<title>Аренда офисов в Самаре</title>
+	<title>Jренда офисов в Самаре</title>
 	<meta content="" name="description" />
 	<link rel="shortcut icon" href="favicon.png" />
 
