@@ -21,4 +21,6 @@
         $headers .= "From: Galant <galant@site.com>\r\n"; //Наименование и почта отправителя
         mail($to, $subject, $message, $headers); //Отправка письма с помощью функции mail
 
+        //GIT 
+
 ?>
